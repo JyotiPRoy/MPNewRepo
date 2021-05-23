@@ -1,2 +1,2 @@
 # Mini Project
- Corona Virus Distance Tracker
+ COVID-19 Social Distancing Monitor
